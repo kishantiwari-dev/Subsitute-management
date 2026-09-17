@@ -1,0 +1,17 @@
+# Java
+*.class
+*.log
+
+# Maven
+target/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (future frontend)
+node_modules/
+dist/
