@@ -1,8 +1,8 @@
 package com.timetable.attendance.controller;
 
 import com.timetable.attendance.dto.AttendanceSyncRequest;
-import com.timetable.attendance.dto.TeacherResponse;
 import com.timetable.attendance.service.AttendanceService;
+import com.timetable.teacher.dto.TeacherResponse;
 
 import org.springframework.web.bind.annotation.*;
 import java.util.List;

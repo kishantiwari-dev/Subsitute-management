@@ -1,7 +1,8 @@
 package com.timetable.attendance.service;
 
 import com.timetable.attendance.dto.AttendanceSyncRequest;
-import com.timetable.attendance.dto.TeacherResponse;
+import com.timetable.teacher.dto.TeacherResponse;
+
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
